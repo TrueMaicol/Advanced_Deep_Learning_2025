@@ -68,13 +68,15 @@ Parameters:
 | NLN2V | 0.789 | 28.45 | 512x512    |
 | SSID  | **0.799** | 29.92 | 512x512    |
 
-<img src="imgs/PSNR_per_image.jpeg" alt="PSNR_per_image" style="max-width: 400px; width: 100%;">
+
+<img src="imgs/PSNR_per_image.jpeg" alt="PSNR_per_image" style="max-width: 400px; width: 40%;">
 
 *PSNR per image*
 
-<img src="imgs/SSIM_per_image.jpeg" alt="SSIM_per_image" style="max-width: 400px; width: 100%; height: auto;">
-
+<img src="imgs/SSIM_per_image.jpeg" alt="SSIM_per_image" style="max-width: 400px; width: 40%; height: auto;">
 *SSIM per image*
+</div>
+
 
 ## Key Findings
 
