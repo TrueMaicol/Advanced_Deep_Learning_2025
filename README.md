@@ -61,20 +61,12 @@ Parameters:
 
 ## Results
 
-| Model | SSIM  | PSNR  | Patch size |
-| ---   | ---   | ---   | ---        |
-| APBSN | 0.164 | **30.71** | 480x480    |
-| NLN2V | 0.787 | 28.56 | 240x240    |
-| NLN2V | 0.789 | 28.45 | 512x512    |
-| SSID  | **0.799** | 29.92 | 512x512    |
-
-<img src="imgs/PSNR_per_image.jpeg" alt="PSNR_per_image" style="max-width: 400px; width: 100%;">
-
-*PSNR per image*
-
-<img src="imgs/SSIM_per_image.jpeg" alt="SSIM_per_image" style="max-width: 400px; width: 100%; height: auto;">
-
-*SSIM per image*
+| Model | SSIM ↑ | PSNR ↑ | Patch Size |
+| ---   | ---    | ---    | ---     | 
+| APBSN | 0.795  | **30.71**  | 480x480 |
+| NLN2V | 0.787  | 28.56  | 240x240 |
+| NLN2V | 0.789  | 28.45  | 512x512 |
+| SSID  | **0.799**  | 29.92  | 512x512 |
 
 ## Key Findings
 
